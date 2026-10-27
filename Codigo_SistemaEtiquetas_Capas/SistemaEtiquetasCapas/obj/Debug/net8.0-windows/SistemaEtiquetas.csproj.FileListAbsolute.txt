@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\bin\Debug\net8.0-windows\SistemaEtiquetas.exe
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\bin\Debug\net8.0-windows\SistemaEtiquetas.deps.json
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\bin\Debug\net8.0-windows\SistemaEtiquetas.runtimeconfig.json
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\bin\Debug\net8.0-windows\SistemaEtiquetas.dll
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\bin\Debug\net8.0-windows\SistemaEtiquetas.pdb
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\obj\Debug\net8.0-windows\SistemaEtiquetas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\obj\Debug\net8.0-windows\SistemaEtiquetas.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\obj\Debug\net8.0-windows\SistemaEtiquetas.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\obj\Debug\net8.0-windows\SistemaEtiquetas.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\obj\Debug\net8.0-windows\SistemaEtiquetas.dll
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\obj\Debug\net8.0-windows\refint\SistemaEtiquetas.dll
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\obj\Debug\net8.0-windows\SistemaEtiquetas.pdb
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\obj\Debug\net8.0-windows\SistemaEtiquetas.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\obj\Debug\net8.0-windows\ref\SistemaEtiquetas.dll
+C:\Users\adria\OneDrive\Desktop\ing.sistemas\Codigo_SistemaEtiquetas_Capas\SistemaEtiquetasCapas\obj\Debug\net8.0-windows\SistemaE.C19CF744.Up2Date
